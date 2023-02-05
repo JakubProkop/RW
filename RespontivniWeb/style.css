@@ -1,0 +1,21 @@
+.nadpis {
+    height: 100px;
+}
+li :hover {
+    border-bottom: black solid 1px;
+}
+.vyska {
+    height: 50px;
+}
+.pozicovani {
+    z-index: 1;
+}
+.img-dovednosti {
+    margin-top: 5px;
+}
+.tlacitko :hover {
+    background-color: blue;
+}
+.tlacitko {
+    border: black solid 1px;
+}
